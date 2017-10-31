@@ -1,0 +1,139 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "7644655",
+            "title": "Main Deewani | Video Song | Mukhtiar Chadha | Diljit Dosanjh, Oshin Brar",
+            "date_created": "1447133401",
+            "loginId": "1758403",
+            "tags": "",
+            "description": "This festive season, celebrate the spirit of love with Diljit Dosanjh aka 'Mukhtiar Chaddha' and the stellar Nooran Sisters with the new romantic song 'Main ...",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/FTAhaweEAJo\/hqdefault.jpg",
+                "uploadDate": 1447133401,
+                "videoId": "FTAhaweEAJo",
+                "title": "Main Deewani | Video Song | Mukhtiar Chadha | Diljit Dosanjh, Oshin Brar",
+                "description": "This festive season, celebrate the spirit of love with Diljit Dosanjh aka 'Mukhtiar Chaddha' and the stellar Nooran Sisters with the new romantic song 'Main ...",
+                "author": "erosentertainment",
+                "mediaDuration": 187,
+                "prettyDuration": "00:03:07",
+                "views": "162447"
+            },
+            "parentId": "107176436",
+            "url": "\/test\/main-deewani-video-song-mukhtiar-chadha-diljit-dosanjh-oshin-brar\/107176436-7644655"
+        },
+        {
+            "id": "7644652",
+            "title": "Joss Stone Temple Pilots Performs \"Interstate Love Song\"",
+            "date_created": "1447144200",
+            "loginId": "1758403",
+            "tags": "",
+            "description": "Joss Stone Temple Pilots Performs \"Interstate Love Song\" on Jimmy Kimmel Live SUBSCRIBE to get the latest #KIMMEL: http:\/\/bit.ly\/JKLSubscribe Watch the ...",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/bfYKWsEuz-0\/hqdefault.jpg",
+                "uploadDate": 1447144200,
+                "videoId": "bfYKWsEuz-0",
+                "title": "Joss Stone Temple Pilots Performs \"Interstate Love Song\"",
+                "description": "Joss Stone Temple Pilots Performs \"Interstate Love Song\" on Jimmy Kimmel Live SUBSCRIBE to get the latest #KIMMEL: http:\/\/bit.ly\/JKLSubscribe Watch the ...",
+                "author": "JimmyKimmelLive",
+                "mediaDuration": 225,
+                "prettyDuration": "00:03:45",
+                "views": "289355"
+            },
+            "parentId": "107176436",
+            "url": "\/test\/joss-stone-temple-pilots-performs-interstate-love-song\/107176436-7644652"
+        },
+        {
+            "id": "7644643",
+            "title": "\"When She Returns\" new song debut - Tangled: The Musical on Disney Cruise Line Disney Magic",
+            "date_created": "1447294742",
+            "loginId": "1758403",
+            "tags": "",
+            "description": "Visit http:\/\/www.InsideTheMagic.net for more One of the three new songs written by Alan Menken for Tangled: The Musical. The all-new Disney Cruise Line show ...",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/mmRL9tUXvJY\/hqdefault.jpg",
+                "uploadDate": 1447294742,
+                "videoId": "mmRL9tUXvJY",
+                "title": "\"When She Returns\" new song debut - Tangled: The Musical on Disney Cruise Line Disney Magic",
+                "description": "Visit http:\/\/www.InsideTheMagic.net for more One of the three new songs written by Alan Menken for Tangled: The Musical. The all-new Disney Cruise Line show ...",
+                "author": "InsideTheMagic",
+                "mediaDuration": 252,
+                "prettyDuration": "00:04:12",
+                "views": "12953"
+            },
+            "parentId": "107176436",
+            "url": "\/test\/when-she-returns-new-song-debut-tangled-the-musical-on-disney-cruise-line-disney-magic\/107176436-7644643"
+        },
+        {
+            "id": "85434983",
+            "title": "cc.mp4",
+            "date_created": "1487378976",
+            "loginId": "1758403",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "120",
+                    "width": 720,
+                    "height": 306
+                },
+                "mediaDuration": "120",
+                "prettyDuration": "00:02:00",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758403\/canvas\/748\/419\/924953724-0393748812.png",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/85434983\/07c33\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/85434983\/07c33\/media.m3u8",
+                "cc": [],
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/85434983\/07c33\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 306
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/85434983\/07c33\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 306
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/85434983\/07c33\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 306
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/85434983\/07c33\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 272
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/85434983\/07c33\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 136
+                    }
+                ]
+            },
+            "parentId": "107176436",
+            "url": "\/test\/cc-mp4\/107176436-85434983"
+        }
+    ]
+}
